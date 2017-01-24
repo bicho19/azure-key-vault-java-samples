@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="com.microsoft.azure:azure:1.0.0-beta4.1" type="repository">
+    <properties maven-id="com.microsoft.azure:azure:1.0.0-beta4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-client-runtime-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/client-runtime-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/retrofit-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logging-interceptor-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-urlconnection-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/converter-jackson-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-joda-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-1.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/adapter-rxjava-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-client-authentication-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/adal4j-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth2-oidc-sdk-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-smart-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lang-tag-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nimbus-jose-jwt-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15on-1.51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-resources-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api-annotations-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-storage-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-network-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-compute-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-graph-rbac-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-keyvault-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-batch-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-trafficmanager-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-dns-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-redis-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-appservice-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-cdn-1.0.0-beta4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-mgmt-sql-1.0.0-beta4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
