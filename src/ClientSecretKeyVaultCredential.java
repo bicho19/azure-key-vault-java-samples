@@ -56,6 +56,7 @@ public class ClientSecretKeyVaultCredential extends KeyVaultCredentials {
                 null);
 
         AuthenticationResult res = resultFuture.get();
+        service.shutdown();
         return res;
 
     }
