@@ -16,7 +16,7 @@ import java.util.concurrent.Future;
 /**
  *
  * Azure Key Vault sample for getting secret value from vault
- *  
+ *
  */
 public class Main {
 
